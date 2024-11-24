@@ -1,14 +1,12 @@
 Генераторы случайных чисел
 
-Ссылки на коды
+Ссылки на коды:
 
-[Самописный генератор Mersenne Twister (MT)]() 
+[Самописный генератор Mersenne Twister (MT)](https://github.com/AlexanderManukyan/IM2/blob/main/IM2/IM2/MersenneTwister.cpp) 
 
-[Библиотечный генератор MT (std::mt19937)]()
+[Генератор линейных конгруэнций (LCG)](https://github.com/AlexanderManukyan/IM2/blob/main/IM2/IM2/LinearCongruentialGenerator.cpp)
 
-[Генератор линейных конгруэнций (LCG)]()
-
-[Генератор Фибоначчи]()
+[Генератор Фибоначчи](https://github.com/AlexanderManukyan/IM2/blob/main/IM2/IM2/FibonacciGenerator.cpp)
 
 Общее описание алгоритма ГПСЧ и его реализации
 
